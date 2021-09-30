@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushi200116" alt="ayushi200116" /></a> </p>
 
-- 🌱 I’m currently learning **Data science and full Stack web development**
 
 - 📫 How to reach me **singhayushi535@gmail.com**
 
