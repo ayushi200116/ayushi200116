@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ayushi_indu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushi_indu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayushi-indu-10147a1b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushi-indu-10147a1b6" height="30" width="40" /></a>
-<a href="https://kaggle.com/ayushiindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayushiindu" height="30" width="40" /></a>
-<!-- <a href="https://medium.com/@singhayushi53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@singhayushi53" height="30" width="40" /></a>
+<!-- <a href="https://kaggle.com/ayushiindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayushiindu" height="30" width="40" /></a>
+<a href="https://twitter.com/ayushi_indu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushi_indu" height="30" width="40" /></a>
+<a href="https://medium.com/@singhayushi53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@singhayushi53" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/singhayushi535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="singhayushi535" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aishi535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aishi535" height="30" width="40" /></a> -->
 </p>
