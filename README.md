@@ -28,12 +28,6 @@
   <a href="https://medium.com/@singhayushi53" target="blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
   </a>
-  <a href="https://www.hackerrank.com/singhayushi535" target="blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank" />
-  </a>
-  <a href="https://leetcode.com/aishi535" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" />
-  </a>
 </p>
 
 ---
